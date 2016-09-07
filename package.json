@@ -1,0 +1,31 @@
+{
+  "name": "hapi-debug-route",
+  "author": "tribou",
+  "version": "0.0.1",
+  "description": "A Hapi plugin that adds a route to expose basic server information",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=6.4.0 <7",
+    "npm": ">=3.10.3 <4"
+  },
+  "homepage": "https://github.com/tribou/hapi-debug-route#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tribou/hapi-debug-route.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tribou/hapi-debug-route/issues"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "debug"
+  ],
+  "dependencies": {
+    "joi": "^9.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

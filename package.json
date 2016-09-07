@@ -1,7 +1,7 @@
 {
   "name": "hapi-debug-route",
   "author": "tribou",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Hapi plugin that adds a route to expose basic server information",
   "license": "Apache-2.0",
   "main": "lib/index.js",
